@@ -1,0 +1,34 @@
+# Maven
+maven/
+repository/
+
+# Target directories
+target/
+
+# IDE files
+.idea/
+*.iml
+
+# Log files
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+*.jar
+*.war
+*.ear
+
+# Dependency directories
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
